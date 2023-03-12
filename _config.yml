@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: ovis1mem1e's blog
+description: 양한나의 블로그입니다.
 
-url: https://long-haul.netlify.app
-paginate_path: "blog/page:num/"
+url: https://github.com/ovis1me1me
+paginate_path: "blog/page:num/" 
 permalink: blog/:title/
 
 # Header Option
@@ -17,21 +17,21 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Home
-      url: /index.html
+    - title: ovis1me1me's blog
+      url: ovis1me1me.github.io
     - title: About
       url: /about
     - title: Contact
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    github: https://github.com/ovis1me1me
+    twitter: 
+    facebook: 
+    email: ovis1me1me@gmail.com
+    linkedin: 
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
 
 disqus:
     shortname: brianmaierjr
