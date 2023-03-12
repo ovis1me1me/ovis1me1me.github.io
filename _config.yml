@@ -17,7 +17,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: ovis1me1me's blog
+    - title: blog
       url: ovis1me1me.github.io
     - title: About
       url: /about
